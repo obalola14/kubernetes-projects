@@ -54,7 +54,7 @@ aws eks --region <region> update-kubeconfig --name <cluster-name>
 After updating your cluster to receive manifests configuration, apply the files in the manifest folder with:
 
 ```sh
-kubectl apply -f a.yaml
+kubectl apply -f app.yaml
 ```
 
 ### Bootstrapping with ArgoCD

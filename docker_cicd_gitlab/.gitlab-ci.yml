@@ -18,7 +18,6 @@ build:
 
   tags:
     - self-hosted
-    
 
   only:
     - main

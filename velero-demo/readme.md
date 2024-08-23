@@ -1,3 +1,4 @@
+Medium article link here: [Install Velero On EKS Cluster and Backup Cluster to S3](https://medium.com/@phil16terpasetheo/install-velero-on-eks-cluster-and-backup-cluster-to-s3-6fdb069cda5f)
 # Set up Velero on EKS Cluster
 
 This repository demonstrates how to provision an EKS cluster and set up velero for cluster back ups and disaster recovery. To use this repository, you'll need the following installed and set up
